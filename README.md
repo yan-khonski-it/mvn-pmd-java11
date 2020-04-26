@@ -1,3 +1,6 @@
+# Deprecated,
+use https://github.com/yan-khonski-it/pmd-java-14
+
 # mvn-pmd-java11
 
 Java 11 and maven. PMD plugin is included.
